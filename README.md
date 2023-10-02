@@ -9,7 +9,7 @@ If you are using Windows, install WSL.<br>
 ```
 make
 ```
-To open any file.
+To open any file:
 ```
 ./kilo filename.xyz
 ```
